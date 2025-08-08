@@ -7,20 +7,20 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Loren Anderson
-  tagline: Principal Consultant - Senior Software Engineer, TPM, BA
-  avatar: profile.png
+  name: Quincy Glenn
+  tagline: Software Developer
+  avatar: "innovise - icon-reversed.png"
 
   # Sidebar links
-  email: loren@goinnovise.com
-  phone: 425-941-5979
-  website: goinnovise.com
-  linkedin: loren-anderson
-  github: TheOfficialLoren
+  email:
+  phone:
+  website:
+  linkedin: the-ibis-head
+  github:
   gitlab:
   bitbucket:
   twitter:
-  stack-overflow: 1121638/lorengphd
+  stack-overflow:
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -29,150 +29,66 @@ sidebar:
   #level: Native
 
   interests:
-    - item: Photography
-      link:
-
-    - item: Fitness
-      link:
-
-    - item: Travel
-      link:
-
     - item: Gaming
+      link:
+
+    - item: Muay Thai
+      link:
+
+    - item: Ninjutsu
+      link:
+
+    - item:
       link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Loren is a Senior Software Engineer with 10+ years of experience successfully
-    leading teams and educating businesses on development methodologies and best
-    practices. With his extensive knowledge of a wide array of software technologies,
-    languages and frameworks, Loren has assumed many different roles throughout his
-    career such as Systems Architect, Project Manager and Business Analyst, while
-    simultaneously programming and remaining a Senior Software Engineer. He excels
-    at quickly understanding the architectural landscape of businesses to advise and
-    bridge the gap between technical and non-technical teams to achieve business
-    goals, which is why he continues to be effective in the consulting industry.
+    Quincy is a Software developer with over two decades of experience building scalable, secure, and maintainable systems. Skilled across multiple server-side languages, relational and non-relational databases, and a wide range of open-source technologies. He modernizes legacy codebases, optimizes performance, and designs robust architectures aligned with business goals. Committed to delivering clean, efficient code and collaborating across cross-functional teams to drive innovation and long-term success.
 
 education:
-  - degree: General Studies - Focus on Business
-    university: Western Washington University
+  - degree: "Bachelor's Degree in Computer Science"
+    university: "Springfield College, Springfield, MA (Sep 1998 - May 2003)"
 
 experiences:
-  - role: Principal Consultant, President
-    time: November 2019 - Present
-    company: Innovise Technologies
-    location: Bellevue, WA
+  - role: Software Developer
+    time: Dec 2017 - Present
+    company: ThothProcess
+    location: United States
     details: |
-      As owner and Principal Consultant of Innovise, Loren is responsible for serving clients across many industries in an array of ways. Roles that Loren serves for clients include CTO, Software Development Lead, and Software Engineer. He partners with small and medium-sized organizations to understand business goals, challenges, and needs thens presents creative and innovative solutions. Day-to-Day oversight and responsibilities include, but are not limited to architecting software, managing teams, and conducting business analyses.
+      As a Software developer at ThothProcess, Quincy modernizes legacy systems, designs and maintains scalable APIs, and leads migrations to resilient, testable architectures with strong security and automated delivery.
 
       _Accomplishments_
-        - Saved client 60% on their monthly cost on monthly Azure spend by containerizing applications, moving scheduled processes to serverless functions, removing uneeded VM's, and more.
-        - Refactored and rebuilt slow and monolithic software systems built in .Net with C# to increase system speed and performance. Increased response time of systems by up to 75% by utilizing WebSockets throughout the system.
-        - Designed, built, deployed, and operated complete software systems utilizing NodeJs and React hosted in Firebase and integrated with many external systems
-        - Helped the client organize a software development team and put Agile processes in place utilizing Atlassian tools.         
-        - Adopted existing, but abandoned VueJs web application and rebuilt to new specifications of the client.
+        - Migrated monolithic apps to Laravel + React using phased rollouts with feature flags and integration tests, achieving zero-downtime deployments and long-term maintainability.
+        - Modernized legacy PHP applications into modular Laravel services, added PHPUnit and Pest, and containerized environments with Docker, reducing production issues by 40%.
+        - Designed and maintained scalable REST and GraphQL APIs in Laravel, integrating with custom React frontends to deliver performant, component-driven UIs.
+        - Strengthened backend security with OAuth2, input validation, static analysis, and enforced test coverage; automated CI/CD pipelines to reduce release times and improve team efficiency.
 
-  - role: Senior Software Engineer
-    time: May 2019 - January 2020
-    company: Mercedes Benz, Research and Development, North America (on contract by iTrellis, LLC)
-    location: Seattle, WA
+  - role: Software Consultant
+    time: Jan 2019 - Jun 2024
+    company: Constructique
+    location: Lee, MA
     details: |
-      As the Senior Software Engineer Loren was responsible for working on two projects
-      simultaneously for multiple stakeholders within the client's organization. One
-      project focused on creating and integrating the API that provides data to all client
-      vehicle head units worldwide, aligning with changing laws &amp; regulations. The 
-      second project was solving Azure Active Directory syncing issues for a 
-      subsection of the client's employees, requiring the creation of APIs and tasks 
-      to sync the Active Directory databases. 
+      Modernized and secured WordPress-based products and admin tools, introducing testing, containerized development workflows, and React-powered interfaces aligned with WordPress standards.
 
       _Accomplishments_
-        -	Learned the clients operations procedures and used Docker & Kubernetes to stand
-        up both systems in Azure, resulting in successful systems integrations.
-        - Supported teams based out of Europe including during off-hours releases
-        for troubleshooting, debugging and general needs.
-        - Successfully delivered both projects ahead of projected timeline.
-        - At the request of the client, presented and demonstrated project work at meetings.
+        - Engineered secure RESTful endpoints and integrated them with custom React components in the WordPress admin, improving UX and enabling dynamic plugin interfaces.
+        - Migrated legacy jQuery-based admin tools to React with feature flags and incremental rollouts, ensuring zero user disruption.
+        - Refactored legacy WordPress plugins to modern PHP standards (PSR-12, OOP), added automated PHPUnit tests, and containerized development with Docker, reducing plugin support requests by 40%.
+        - Hardened plugin security with nonce checks, capability validations, and static code analysis, aligning with WordPress coding standards and reducing reported vulnerabilities.
 
-  - role: Senior Software Engineer
-    time: Oct 2019 - May 2019
-    company: CBRE (on contract by iTrellis, LLC)
-    location: Dallas, TX
+  - role: Web Application Developer
+    time: Jul 2016 - Nov 2017
+    company: Alliance For A Healthier Generation
+    location: Portland, OR
     details: |
-      This project was for a client based in Dallas, Texas and required a combination
-      of remote and on-site work. Loren was tasked with working within the team to
-      produce an angular-driven internal website, featuring real-time dashboards that
-      displayed performance data an analytics used by the company's sales team.
-      Throughout this project, Loren played an integral role in solving front-end
-      and back-end projects simultaneously for the website, demonstrating the
-      benefits and efficiencies of resources that can execute both types of 
-      software design.
+      Replaced fragile legacy infrastructure with containerized, testable environments and automated data and release workflows to improve reliability and speed.
 
       _Accomplishments_
-        - The only member on the project team, working on front-end and back-end parts of the code increase production and decrease dependencies.
-        - Taught the client's team software development best practices such as git version control.
-        - Adopted Angular 7, Postgres and GoLang within a couple of days to meet the client's expectations.
-
-  - role: Account Lead & Senior Software Engineer
-    time: Oct 2018 - Oct 2019
-    company: Crestron (on contract by iTrellis, LLC)
-    location: Rockleigh, NJ
-    details: |
-      As a Senior Software Engineer, Loren assisted in the overhaul and deployment of
-      the client’s primary customer facing website and back-end tools to support
-      content changes and solve for multiple major performance issues.  He also provided
-      post-deployment support and continued feature development. Throughout this
-      process Loren also taught software development best practices and facilitated
-      the implementation of these processes, allowing the client to be self-sufficient 
-      post-completion of the project. He was also responsible for helping with 
-      code reviews, release management, Azure Dev Ops functions and process documentation.
-
-      _Accomplishments_
-        -	Responsible for building and maintaining iTrellis's relationship with the
-        client as the Account Lead.
-        - Supported the release of enterprise level Azure hosted website.
-        - Performed successful integrations including CDN and Elastic Search.
-        - Improved site performance by reducing database calls on each pages from
-        120 calls per page to 2, making Elastic Search more efficient.
-        - Quickly learned the company’s architectural landscape to make an immediate
-        impact on the client's team.
-        - As the Release Manager, Loren planned and executed the back-end tool
-        solution for content managers.
-
-  - role: Project Manager &amp; Senior Software Engineer
-    time: Dec 2017 - Oct 2019
-    company: Capstone Technologies (on contract by iTrellis, LLC)
-    location: Vancouver, WA
-    details: |
-      Played an integral role in transforming the client with no software change 
-      management processes into a SAFe organization, implementing Microsoft Team
-      Foundation Server as the team support technology. Acted as the Scrum Master,
-      supporting the team in the adoption of  Agile principles and continuous
-      development techniques. Produced metrics to identify strong and weak points
-      in the software creation process.
-        
-      _Accomplishments_
-        -	Organized the company into 3 functioning Scrum teams.
-        - Taught 9 developers and 5+ business analysts how to utilize the Scrum process.
-        - Created a CI/CD pipeline to increase productivity and quality assurance.
-
-  - role: Team Lead &amp; Senior Software Engineer
-    time: Mar 2011 - Jun 2016
-    company: ATG Stores / Lowe's
-    location: Kirkland, WA
-    details: |
-      Loren was responsible for the redesign of the cart and checkout pages of
-      e-commerce home improvement companies ATGStores.com and Lowe's Canada. This
-      integral redesign ensured optimal performance for customers purchasing on
-      the website. During this time, Loren also built and lead a team of 6 software
-      engineers to maintain and add additional features to the cart and checkout
-      pages of the site.
-
-      _Accomplishments_
-        - Integral part in helping meet and comply with PCI standards.
-        - Designed and created the credit card value using key encryption technology.
-        - Built and maintained a multi-million dollar checkout experience using Asp.net and C#.
-        - Implemented and lead the first team in the company to adopt Scrum methodologies.
+        - Replaced legacy infrastructure with Dockerized Linux environments on AWS, accelerating developer onboarding and enabling secure, testable backend deployments.
+        - Implemented automated database migration workflows with version control to support safe schema changes and rollback capability in legacy systems.
+        - Developed backend deployment scripts integrating testing and release steps, reducing manual deployment time by 75% and improving release reliability.
+        - Maintained documentation for system architectures and processes to ensure clarity and consistency for future development efforts.
 
 projects:
   title: Projects
@@ -224,15 +140,17 @@ publications:
 
 skills:
   - title: Languages
-    value: "C#, Java, TypeScript, JavaScript, GoLang, Python, VB, SQL"
+    value: "TypeScript, Java, PHP, Python, Node.js, Golang, C#"
   - title: Frameworks
-    value: ".NET, Angular, ReactJs, VueJs, RxjJS, Spring Boot, jQuery, Jekyll"
+    value: "React, Laravel, WordPress"
+  - title: Databases
+    value: "PostgreSQL, MySQL, MongoDB, Elasticsearch"
   - title: Tools
-    value: "Windows, Mac OS, Redux, Visual Studio, VS Code, Agile, Scrum, SAFe"
+    value: "Git, GitHub, Docker, Linux, Nginx"
   - title: Operations
-    value: "CICD, Docker, Kubernetes, Helm, Azure Devops, Atlassian Jira, Jenkins, Atlassian Bamboo"
+    value: "CI/CD, DevOps, AWS, GCP, Azure"
   - title: Other
-    value: "Leading Teams, Cross-Functional Communication, Git, Azure, SQL Server, Postgres"
+    value: "Legacy Code Maintenance, API Design, REST, GraphQL, OAuth, Agile"
 
 # Examples section. Useful for UX designers or other visual additions
 showExamples: false
